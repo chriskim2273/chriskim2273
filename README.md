@@ -14,8 +14,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yS43MEOkRg-eNutZTPdVS4mdrpE02LiX/view?usp=sharing](https://drive.google.com/file/d/1yS43MEOkRg-eNutZTPdVS4mdrpE02LiX/view?usp=sharing)
 
 - ⚡ Fun fact **I started coding because of ROBLOX.**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
