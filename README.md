@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **CSE Class Projects**
 
-- 🌱 I’m currently learning **JavaFX, Python, Front-End**
+- 🌱 I’m currently learning **Python, Front-End, AWS Chalice, AWS OpenSearch**
 
 - 📫 How to reach me **christopherkim2273@gmail.com**
 
