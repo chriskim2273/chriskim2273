@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **christopherkim2273@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yS43MEOkRg-eNutZTPdVS4mdrpE02LiX/view?usp=sharing](https://drive.google.com/file/d/1yS43MEOkRg-eNutZTPdVS4mdrpE02LiX/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gtDbSwt1f3mB-dxI3kWraKQ9UTwvnLCt/view?usp=sharing](https://drive.google.com/file/d/1gtDbSwt1f3mB-dxI3kWraKQ9UTwvnLCt/view?usp=sharing)
 
 - ⚡ Fun fact **I started coding because of ROBLOX. (LUA)**
 <p align="left">
