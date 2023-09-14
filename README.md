@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christopher Kim</h1>
-<h3 align="center">A Undergraduate Student at Stony Brook University Majoring in Computer Science.</h3>
+<h3 align="center">An Undergraduate Student at Stony Brook University Majoring in Computer Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chriskim2273&label=Profile%20views&color=0e75b6&style=flat" alt="chriskim2273" /> </p>
 
